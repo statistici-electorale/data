@@ -1,6 +1,5 @@
-
 - Secții Vot 
-  - Alegeri Locale 2020 (csv, lat/lng)
+  - Alegeri Locale 2020 (csv, geojson)
   - Alegeri Prezidențiale 2019 (csv, lat/lng)
 - Liste Candidați Vot Alegeri Locale 2020 (xls)
 - Prezență Vot Referendum CpF 2016 (csv, lat/lng)
